@@ -1,0 +1,2 @@
+Knox provides easy to use authentication for Django REST Framework
+Knox authentication is token based, similar to the TokenAuthentication built in to DRF.
